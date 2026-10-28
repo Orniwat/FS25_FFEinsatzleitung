@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="115">
+    <author>Orniwat &amp; iowi</author>
+    <version>1.0.1.0</version>
+    <title>
+        <de>Freiwillige Feuerwehr – Melder &amp; Einsatzleitung</de>
+        <en>Volunteer Fire Brigade – Pager &amp; Incident Command</en>
+        <fr>Pompiers volontaires – Bipeur &amp; Commandement</fr>
+    </title>
+    <description>
+        <de><![CDATA[Werde Teil deiner Freiwilligen Feuerwehr!
+
+Dein digitaler Meldeempfänger piept, wenn es brennt – mit echtem Alarmton, Stichwort, Einsatzort und alarmierten Kräften. Rückst du rechtzeitig aus, ist es dein Einsatz. Schaffst du es nicht, übernimmt die Nachbarwehr.
+
+Läuft auf jeder Map, allein oder mit Freunden – ohne Zusatzprogramm, ohne Leitstellen-Spieler. Alles direkt im Spiel.
+
+FUNKTIONEN
+- Meldeempfänger mit 3 Alarmtönen, Quittieren und Wegpunkt auf der Karte
+- Echte Einsätze aus dem Emergency Pack direkt auf dem Melder – ohne Pack erzeugt der Melder eigene Einsätze
+- Stichworte nach Vorbild: B1-B3, B WALD, BMA, TH1, TH TIER, TH VU, TH ÖL
+- EL-Tablet im Spiel, alles per Maus: Lage, Wache, Lagekarte und Info
+- Lagekarte: Live-Karte des Einsatzes mit Einsatzstelle, Wache und deiner Position
+- Ausrückzeit, Fahrzeugstatus 3 / 4 / 1 / 2, Nachalarmieren und Einsatztagebuch
+
+KOMMT BALD (im Tablet schon zu sehen)
+- 1.1: Eigener Fuhrpark und AAO – KI-Kameraden besetzen deine Fahrzeuge und rücken mit aus (mit AutoDrive)
+- 1.2: Multiplayer mit Rollen – der Host ist Wachleiter
+- danach: Finanzen der Wehr, Alarmierung nach BW-Vorbild, Einsatzablauf, neue Lagen
+
+BEDIENUNG
+Alt+T EL-Tablet, Alt+Q Alarm quittieren, Alt+M Melder ein/aus, Alt+Shift+E Einsatz beenden, Alt+Shift+A Probealarm
+
+Empfohlen: Emergency Pack. Singleplayer (Multiplayer folgt mit 1.2).
+
+Changelog 1.0.1:
+- Einsätze aus dem Emergency Pack kommen direkt auf den Melder, ohne Ja/Nein-Abfrage
+- Hinweise des Packs bleiben sichtbar und stehen im Einsatztagebuch
+- Nach der Ausrückzeit rückt ein KI-HLF aus und fährt mit an
+- Tablet besser lesbar, Community-Kasten im Reiter INFO
+- Melder und Tablet auf Deutsch und Englisch (je nach Spielsprache)
+
+Mod für Farming Simulator 25.]]></de>
+        <en><![CDATA[Become part of your volunteer fire brigade!
+
+Your digital pager goes off when there is a fire – with a real alert tone, keyword, location and dispatched units. Respond in time and the call is yours. If you don't make it, the neighbouring brigade takes over.
+
+Works on every map – no extra tools, no human dispatcher needed. Everything happens in-game.
+
+FEATURES
+- Pager with 3 alert tones, acknowledge and map waypoint
+- Real Emergency Pack callouts on your pager – without the pack the pager creates its own calls
+- Incident command tablet, all by mouse: situation, station, live incident map and info
+- Turnout time, vehicle status 3 / 4 / 1 / 2, request more units, incident log
+
+COMING SOON (already visible in the tablet)
+- 1.1: Your own fleet and dispatch rules – AI crew members man your trucks and respond (with AutoDrive)
+- 1.2: Multiplayer with roles – the host is the station commander
+
+CONTROLS
+Alt+T tablet, Alt+Q acknowledge, Alt+M pager on/off, Alt+Shift+E end incident, Alt+Shift+A test alert
+
+Recommended: Emergency Pack. Singleplayer (multiplayer follows with 1.2). Pager and tablet in English and German (follows the game language).
+
+Changelog 1.0.1:
+- Emergency Pack callouts go straight to the pager, without the yes/no dialog
+- Emergency Pack hints stay visible and are written to the incident log
+- After the turnout time an AI fire engine responds as well
+- Tablet easier to read, community box in the INFO tab
+- Pager and tablet in English and German (follows the game language)
+
+Mod for Farming Simulator 25.]]></en>
+        <fr><![CDATA[Rejoins ta caserne de pompiers volontaires !
+
+Ton bipeur numérique sonne dès qu'il y a un feu – avec une vraie tonalité d'alerte, le type d'intervention, le lieu et les engins engagés. Si tu pars à temps, l'intervention est à toi. Sinon, la caserne voisine prend le relais.
+
+Fonctionne sur toutes les cartes – sans programme supplémentaire, sans joueur au centre d'appels. Tout se passe dans le jeu.
+
+FONCTIONS
+- Bipeur avec 3 tonalités d'alerte, acquittement et point de navigation sur la carte
+- Vraies interventions de l'Emergency Pack sur ton bipeur – sans le pack, le bipeur crée ses propres alertes
+- Tablette de commandement, tout à la souris : situation, caserne, carte d'intervention en direct et infos
+- Délai de départ, statut des véhicules 3 / 4 / 1 / 2, renforts, journal d'intervention
+
+BIENTÔT (déjà visible dans la tablette)
+- 1.1 : ta propre flotte et tes règles d'engagement – des équipiers IA prennent tes véhicules (avec AutoDrive)
+- 1.2 : multijoueur avec rôles – l'hôte est le chef de caserne
+
+COMMANDES
+Alt+T tablette, Alt+Q acquitter, Alt+M bipeur on/off, Alt+Shift+E terminer l'intervention, Alt+Shift+A alerte de test
+
+Recommandé : Emergency Pack. Solo (multijoueur avec la 1.2). Bipeur et tablette en anglais et en allemand (selon la langue du jeu).
+
+Changelog 1.0.1:
+- Les interventions de l'Emergency Pack arrivent directement sur le bipeur, sans fenêtre oui/non
+- Les indications du pack restent visibles et sont inscrites dans le journal d'intervention
+- Après le délai de départ, un engin IA part aussi en intervention
+- Tablette plus lisible, encadré communauté dans l'onglet INFO
+- Bipeur et tablette en anglais et en allemand (selon la langue du jeu)
+
+Mod pour Farming Simulator 25.]]></fr>
+    </description>
+    <iconFilename>icon_FFEinsatzleitung.dds</iconFilename>
+    <multiplayer supported="false" />
+
+    <extraSourceFiles>
+        <sourceFile filename="scripts/FFEinsatzleitung.lua" />
+        <sourceFile filename="scripts/Sprache.lua" />
+        <sourceFile filename="scripts/Fuhrpark.lua" />
+        <sourceFile filename="scripts/Einsatz.lua" />
+        <sourceFile filename="scripts/Ausruecken.lua" />
+        <sourceFile filename="scripts/EmergencyPack.lua" />
+        <sourceFile filename="scripts/Pager.lua" />
+        <sourceFile filename="scripts/Tablet.lua" />
+        <sourceFile filename="scripts/Info.lua" />
+        <sourceFile filename="scripts/Konsole.lua" />
+    </extraSourceFiles>
+
+    <actions>
+        <action name="FFE_QUIT" />
+        <action name="FFE_TOGGLE" />
+        <action name="FFE_TESTALARM" />
+        <action name="FFE_ABORT" />
+        <action name="FFE_TABLET" />
+    </actions>
+
+    <inputBinding>
+        <actionBinding action="FFE_QUIT">
+            <binding device="KB_MOUSE_DEFAULT" input="KEY_lalt KEY_q" />
+        </actionBinding>
+        <actionBinding action="FFE_TOGGLE">
+            <binding device="KB_MOUSE_DEFAULT" input="KEY_lalt KEY_m" />
+        </actionBinding>
+        <actionBinding action="FFE_TESTALARM">
+            <binding device="KB_MOUSE_DEFAULT" input="KEY_lalt KEY_lshift KEY_a" />
+        </actionBinding>
+        <actionBinding action="FFE_TABLET">
+            <binding device="KB_MOUSE_DEFAULT" input="KEY_lalt KEY_t" />
+        </actionBinding>
+        <actionBinding action="FFE_ABORT">
+            <binding device="KB_MOUSE_DEFAULT" input="KEY_lalt KEY_lshift KEY_e" />
+        </actionBinding>
+    </inputBinding>
+
+    <l10n>
+        <text name="input_FFE_QUIT"><de>Melder: Alarm quittieren</de><en>Pager: acknowledge alert</en><fr>Bipeur : acquitter l'alerte</fr></text>
+        <text name="input_FFE_TOGGLE"><de>Melder: anzeigen / ausblenden</de><en>Pager: show / hide</en></text>
+        <text name="input_FFE_TESTALARM"><de>Melder: Probealarm</de><en>Pager: test alert</en></text>
+        <text name="input_FFE_TABLET"><de>EL-Tablet öffnen / schließen</de><en>Open / close command tablet</en></text>
+        <text name="input_FFE_ABORT"><de>Einsatz beenden / abbrechen</de><en>End / abort operation</en></text>
+    </l10n>
+</modDesc>
