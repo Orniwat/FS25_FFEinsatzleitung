@@ -1,18 +1,31 @@
-<p align="center"><img src="docs/images/icon.png" width="200" alt="FF Einsatzleitung"></p>
+<p align="center"><img src="docs/images/screenshot-einsatzstelle.jpg" width="100%" alt="Einsatzstelle bei Nacht"></p>
 
-# FF Einsatzleitung – Freiwillige Feuerwehr: Melder & Einsatzleitung (LS25)
+<p align="center"><img src="docs/images/icon.png" width="120" alt="FF Einsatzleitung"></p>
 
-**von Orniwat & iowi** · Script-Mod für den Landwirtschafts-Simulator 25 (PC) · Deutsch & Englisch
+<h1 align="center">FF Einsatzleitung</h1>
+<p align="center"><b>Freiwillige Feuerwehr – Melder &amp; Einsatzleitung</b><br>
+Script-Mod für den Landwirtschafts-Simulator 25 (PC) · von Orniwat &amp; iowi · Deutsch &amp; Englisch</p>
+
+<p align="center">
+<a href="https://discord.gg/WKdQmKaVFG"><img src="https://img.shields.io/badge/Discord-Community-5865F2?logo=discord&logoColor=white" alt="Discord"></a>
+<img src="https://img.shields.io/badge/Version-1.0.1-c8361f" alt="Version">
+<img src="https://img.shields.io/badge/LS25-PC-2f8f4e" alt="LS25 PC">
+</p>
 
 Dein digitaler Meldeempfänger piept, wenn es brennt – mit Alarmton, Stichwort, Einsatzort und alarmierten Kräften.
 Rückst du rechtzeitig aus, ist es dein Einsatz. Schaffst du es nicht, rückt ein KI-Fahrzeug der Nachbarwehr aus.
 Läuft auf jeder Map, ohne Zusatzprogramm und ohne Leitstellen-Spieler – alles direkt im Spiel.
 
-![Melder](docs/images/vorschau-melder.png)
-
-| Lage | Lagekarte |
-|---|---|
-| ![Tablet Lage](docs/images/vorschau-tablet-lage.png) | ![Lagekarte](docs/images/vorschau-tablet-karte.png) |
+<table>
+<tr>
+<td width="50%"><img src="docs/images/screenshot-melder.jpg" alt="Melder bei Alarm"><br><sub><b>Der Melder</b> – Alarm mit Stichwort, Einsatzort und Kräften</sub></td>
+<td width="50%"><img src="docs/images/screenshot-tablet-lage.jpg" alt="EL-Tablet Lage"><br><sub><b>EL-Tablet</b> – Lage, Einheiten und Einsatztagebuch</sub></td>
+</tr>
+<tr>
+<td width="50%"><img src="docs/images/screenshot-tablet-wache.jpg" alt="EL-Tablet Wache"><br><sub><b>Wache & Einstellungen</b> – alles per Maus im Spiel</sub></td>
+<td width="50%"><img src="docs/images/vorschau-tablet-karte.png" alt="Lagekarte"><br><sub><b>Lagekarte</b> – Einsatzstelle, Wache und deine Position</sub></td>
+</tr>
+</table>
 
 ## Funktionen (Version 1.0.1)
 - Meldeempfänger mit 3 Alarmtönen, Quittieren und Wegpunkt auf der Karte
